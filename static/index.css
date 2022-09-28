@@ -1,0 +1,31 @@
+body{
+   
+    background: #314755;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #26a0da, #314755);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #26a0da, #314755); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 300px;
+    font-family: 'Courier New', monospace;
+    margin: 120px;
+    overflow-x: hidden;
+    color: rgb(218, 218, 218);
+    display: flex;
+
+}
+
+button{
+    align-items: center;
+    margin-left: 840px;
+    font-size: 70px;
+    background: none;
+    border: none;
+    color: aliceblue;
+    font-family: 'Courier New', monospace;
+}
